@@ -1,0 +1,22 @@
+.light {
+    background-color: aquamarine;
+}
+
+.dark {
+    background-color: darkblue;
+    color: white;
+}
+
+button{
+    height: 5vh;
+    width: 10vw;
+    border-radius: 2vw;
+    border: none;
+    margin-bottom: 2vh;
+    background-color: cadetblue;
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(85, 88, 88);
+}
